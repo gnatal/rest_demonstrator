@@ -1,0 +1,29 @@
+{
+  "name": "rest_demonstrator",
+  "version": "1.0.0",
+  "description": "A rest Api demonstration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnatal/rest_demonstrator.git"
+  },
+  "keywords": [
+    "rest",
+    "node",
+    "typescript",
+    "express"
+  ],
+  "author": "Guilherme Natal",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gnatal/rest_demonstrator/issues"
+  },
+  "homepage": "https://github.com/gnatal/rest_demonstrator#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

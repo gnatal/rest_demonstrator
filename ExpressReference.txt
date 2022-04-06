@@ -1,0 +1,9 @@
+Express JS
+
+-To start a node JS project do
+    - npm init --yes (this is sets the defaults of package.json as true)
+- In the docs they talk about this express generator tool
+- I thought that's a bad ideia, one of the express main goals is to be 
+less opinionated, this tool is very opinionated, also express needs to be 
+light, this tool install a bunch of things which I did not accesses if were
+necessary but I for my purposes here, they are complete out of scope.
