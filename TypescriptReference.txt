@@ -1,0 +1,20 @@
+DATE 07/04/2022
+
+To add a typescript to a Project do:
+
+yarn add -D typescript => this will install typescript as a dev dependencie
+
+to add a default config in a file (tsconfig.json) use:
+yarn tsc --init
+
+// To Add JSON server
+https://www.npmjs.com/package/json-server
+// ts node dev
+https://dev.to/rogeriorioli/iniciando-um-projeto-nodejs-express-com-typescript-4bfl
+// dotenv
+
+// ESLint
+// Prettier
+
+//lint
+https://medium.com/cwi-software/eslint-prettier-a-dupla-perfeita-para-produtividade-e-padroniza%C3%A7%C3%A3o-de-c%C3%B3digo-6a7730cfa358
